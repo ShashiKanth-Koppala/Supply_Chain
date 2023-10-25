@@ -38,7 +38,6 @@ This project aims to predict sales for SKU (Stock Keeping Unit) and store combin
 ## How to Run the Code
 
 - Install Python and Jupyter Notebook.
-- Open the sales_forecasting.ipynb notebook.
 - Execute the code cells in order to load the data, train the model, and make predictions.
 
 
