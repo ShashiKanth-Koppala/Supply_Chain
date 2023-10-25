@@ -1,4 +1,8 @@
 # Supply_Chain IOT assignment
+Roles numbers: -
+SE20UARI140
+SE20UARI150
+SE20UARI023
 # Sales Forecasting with Historical Data
 
 This project aims to predict sales for SKU (Stock Keeping Unit) and store combinations using historical sales data for the past 3 years on a week-on-week basis. The data includes sales, promotional seasonality, SKU information, and store information.
